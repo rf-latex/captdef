@@ -1,2 +1,2 @@
 # captdef
-Declare free-standing \caption commands
+Declare free-standing `\caption` commands
